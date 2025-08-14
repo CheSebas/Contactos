@@ -1,5 +1,3 @@
-import React from "react";
-
 const ContactList = ({ contacts }) => {
   return (
     <ul className="contact-list">

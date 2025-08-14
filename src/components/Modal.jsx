@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 const Modal = ({ addContact, toggleModal }) => {
   const [name, setName] = useState("");
